@@ -69,23 +69,23 @@ Extended Kalman Filter
 Unscented Kalman Filter
 Capstone Project
 
-#Linear Kalman Filter (LKF Exercise 1)
+# Linear Kalman Filter (LKF Exercise 1)
 
 Starting with the kalmanfilter_lkf_student.cpp and replace the kalmanfilter.cpp file. Initialize the filter on first prediction step and then implement the 2D Vehicle process model and Linear Kalman Filter Prediction steps. Test and verify good performance with profile 1.
 
-#Linear Kalman Filter (LKF Exercise 2)
+# Linear Kalman Filter (LKF Exercise 2)
 
 Continuing on from Exercise 2, Implement the GPS update step using the Linear Kalman Filter Update equations. Test and verify good performance with profile 1. Play around with tunings and see results for profiles 2,3 and 4.
 
-#Linear Kalman Filter (LKF Exercise 3)
+# Linear Kalman Filter (LKF Exercise 3)
 
 Continuing on from Exercise 3, Modify the filter to initialize the filter on first GPS measurement rather than prediction. Use the flag INIT_ON_FIRST_PREDICTION = false to enable this functionality. Test and verify good performance with profile 1 and 2.
 
-#Extended Kalman Filter (EKF Exercise 1)
+# Extended Kalman Filter (EKF Exercise 1)
 
 Starting with the kalmanfilter_ekf_student.cpp and replace the kalmanfilter.cpp file. Implement the 2D Vehicle process model and Extended Kalman Filter Prediction steps. Test and verify good performance with profiles 1-4.
 
-#Extended Kalman Filter (EKF Exercise 2)
+# Extended Kalman Filter (EKF Exercise 2)
 
 Continuing on from EKF Exercise 2, Implement the LIDAR update step using the Extended Kalman Filter Update equations. Test and verify good performance with profiles 1-8.
 
@@ -93,15 +93,15 @@ Unscented Kalman Filter (UKF Exercise 1)
 
 Starting with the kalmanfilter_ukf_student.cpp and replace the kalmanfilter.cpp file. Implement the 2D Vehicle Process model and Unscented Kalman Filter Prediction steps. Test and verify good performance with profiles 1-4.
 
-#Unscented Kalman Filter (UKF Exercise 2)
+# Unscented Kalman Filter (UKF Exercise 2)
 
 Continuing on from UKF Exercise 2, Implement the LIDAR update step using the Unscented Kalman Filter Update equations. Test and verify good performance with profiles 1-8.
 
-#Capstone Project
+# Capstone Project
 
 Starting from any filter base replace the kalmanfilter.cpp file. Program a filter to provide the best estimation performance for profiles 9,0 (It should also work on any other profiles aswell).
 
-#Authors
+# Authors
 
 This project was developed for the Technitute Course - Advanced Kalman Filtering and Sensor Fusion. Developed and produced by Dr. Steven Dumble.
 
