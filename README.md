@@ -42,14 +42,23 @@ The simulation can be run with different motion and sensor profiles to test the 
 
 # Motion Profiles
 1 - Constant Velocity + GPS + GYRO + Zero Initial Conditions
+
 2 - Constant Velocity + GPS + GYRO + Non-zero Initial Conditions
+
 3 - Constant Speed Profile + GPS + GYRO
+
 4 - Variable Speed Profile + GPS + GYRO
+
 5 - Constant Velocity + GPS + GYRO + LIDAR+ Zero Initial Conditions
+
 6 - Constant Velocity + GPS + GYRO + LIDAR + Non-zero Initial Conditions
+
 7 - Constant Speed Profile + GPS + GYRO + LIDAR
+
 8 - Variable Speed Profile + GPS + GYRO + LIDAR
+
 9 - CAPSTONE
+
 0 - CAPSTONE BONUS (with No Lidar Data Association)
 
 # The Tasks
