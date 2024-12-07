@@ -22,7 +22,7 @@ This project will use the Ubuntu 64 20.04.2.0 LTS VM C++ development environment
  
  1. Clone the repository
  ```
- git clone https://github.com/technitute/AKFSF-Simulation-CPP.git
+ git clone https://github.com/ravi4271/PathPlanning_KF_SensorFusion/AKFSF-Simulation-CPP.git
  ```
  2. Setup the cmake build
  ```
